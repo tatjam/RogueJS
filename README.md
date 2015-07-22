@@ -16,10 +16,11 @@ The engine is contained on a single file `./rogue.js`, requiring nothing but an 
 The engine renders all objects using `fillText`, which may make it slow on big canvases, i would recommend keeping the canvas size under `500x500`.
 
 There are 2 types of objects:
-<bk>
+
+
 `actors`: They are movable and can have a transparent background
-<bk>
-`tiles`: They are static, they can be solid
+
+`tiles`: They are static, they can have "colliders"
 <bk>
 <bk>
 <bk>
