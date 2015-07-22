@@ -19,7 +19,7 @@ There are 2 types of objects:
 <bk>
 `actors`: They are movable and can have a transparent background
 <bk>
-`tiles`: They are static, they can be collideable or nothing
+`tiles`: They are static, they can be solid
 <bk>
 <bk>
 <bk>
